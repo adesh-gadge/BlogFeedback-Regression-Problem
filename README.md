@@ -3,7 +3,7 @@ Instances in this dataset contain features extracted from blog posts. The task a
 [Data](https://archive.ics.uci.edu/ml/datasets/BlogFeedback) </br>
 
 **Data Set Information:**
- <\br>
+ </br>
 This data originates from blog posts. The raw HTML-documents
 of the blog posts were crawled and processed.
 The prediction task associated with the data is the prediction
@@ -31,7 +31,7 @@ disjoint train and test splits in order to ensure that the
 evaluation is fair. <\br>
 
 **Attribute Information:**
- <\br>
+ </br>
 1...50:
 Average, standard deviation, min, max and median of the
 Attributes 51...60 for the source of the current blog post
