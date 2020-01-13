@@ -75,11 +75,11 @@ parents received
 
 ### Results 
 #### Multilinear Least Square Regression:
-![linresults](https://drive.google.com/open?id=1pdDutW7ZOoix-TkZ2HBqpfTMfc46N9NA)
+![linresults](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem/blob/master/images/lin1.PNG)
 #### Ridge Results:
-![Ridgeresults](https://drive.google.com/open?id=1UMNRhgXh4Oap4FbP5TS9N9Jc-Rmn4n5r)
+![Ridgeresults](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem/blob/master/images/ridge1.PNG)
 #### LASSO Results:
-![lassores](https://drive.google.com/open?id=10SAAx7kAoA268b0iQqZFGaPlJ6-Fbc9O)
+![lassores](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem/blob/master/images/lasso1.PNG)
 #### LASSO Feature Importance:
-![featureimp](https://drive.google.com/open?id=1W3p-XL84vkjfKMfFVrV8S1SuEut9ZYlt)
+![featureimp](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem/blob/master/images/feature%20importance.PNG)
 
