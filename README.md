@@ -1,9 +1,9 @@
 # BlogFeedback-Regression-Problem
-Instances in this dataset contain features extracted from blog posts. The task associated with the data is to predict how many comments the post will receive.
+Instances in this dataset contain features extracted from blog posts. The task associated with the data is to predict how many comments the post will receive. <\br>
 [Data](https://archive.ics.uci.edu/ml/datasets/BlogFeedback) <\br>
 
-**Data Set Information:
-
+**Data Set Information:**
+ <\br>
 This data originates from blog posts. The raw HTML-documents
 of the blog posts were crawled and processed.
 The prediction task associated with the data is the prediction
@@ -15,23 +15,23 @@ all the features of the selected blog posts from the information
 that was available at the basetime, therefore each instance
 corresponds to a blog post. The target is the number of
 comments that the blog post received in the next 24 hours
-relative to the basetime.
+relative to the basetime.  <\br>
 
 In the train data, the basetimes were in the years
 2010 and 2011. In the test data the basetimes were
 in February and March 2012. This simulates the real-world
 situtation in which training data from the past is available
-to predict events in the future.
+to predict events in the future. <\br>
 
 The train data was generated from different basetimes that may
 temporally overlap. Therefore, if you simply split the train
 into disjoint partitions, the underlying time intervals may
 overlap. Therefore, the you should use the provided, temporally
 disjoint train and test splits in order to ensure that the
-evaluation is fair.
+evaluation is fair. <\br>
 
-**Attribute Information:
-
+**Attribute Information:**
+ <\br>
 1...50:
 Average, standard deviation, min, max and median of the
 Attributes 51...60 for the source of the current blog post
