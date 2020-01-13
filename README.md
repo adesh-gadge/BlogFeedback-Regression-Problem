@@ -74,4 +74,12 @@ parents received
 
 
 ### Results 
+#### Multilinear Least Square Regression:
+![linresults](https://drive.google.com/open?id=1pdDutW7ZOoix-TkZ2HBqpfTMfc46N9NA)
+#### Ridge Results:
+![Ridgeresults](https://drive.google.com/open?id=1UMNRhgXh4Oap4FbP5TS9N9Jc-Rmn4n5r)
+#### LASSO Results:
+![lassores](https://drive.google.com/open?id=10SAAx7kAoA268b0iQqZFGaPlJ6-Fbc9O)
+#### LASSO Feature Importance:
+![featureimp](https://drive.google.com/open?id=1W3p-XL84vkjfKMfFVrV8S1SuEut9ZYlt)
 
