@@ -1,6 +1,6 @@
 # BlogFeedback-Regression-Problem
 Instances in this dataset contain features extracted from blog posts. The task associated with the data is to predict how many comments the post will receive. </br>
-[Data](https://archive.ics.uci.edu/ml/datasets/BlogFeedback) </br>
+### [Data](https://archive.ics.uci.edu/ml/datasets/BlogFeedback) </br>
 
 **Data Set Information:**
  </br>
@@ -71,4 +71,7 @@ Minimum, maximum, average number of comments that the
 parents received
 281: The target: the number of comments in the next 24 hours
 (relative to basetime)
+
+
+### Results 
 
